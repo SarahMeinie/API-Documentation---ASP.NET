@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTechAPI.Standard", "BankTechAPI.Standard/BankTechAPI.Standard.csproj", "{ee4c5028-ed97-4c5f-ad4a-a315e425a05e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTechAPI.Tests", "BankTechAPI.Tests/BankTechAPI.Tests.csproj", "{f78da2a5-2718-42e0-9e8c-9108c73f085e}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {ee4c5028-ed97-4c5f-ad4a-a315e425a05e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {ee4c5028-ed97-4c5f-ad4a-a315e425a05e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {ee4c5028-ed97-4c5f-ad4a-a315e425a05e}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {ee4c5028-ed97-4c5f-ad4a-a315e425a05e}.Release|Any CPU.Build.0 = Release|Any CPU
+        {f78da2a5-2718-42e0-9e8c-9108c73f085e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {f78da2a5-2718-42e0-9e8c-9108c73f085e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {f78da2a5-2718-42e0-9e8c-9108c73f085e}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {f78da2a5-2718-42e0-9e8c-9108c73f085e}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
